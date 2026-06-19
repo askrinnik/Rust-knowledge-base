@@ -78,16 +78,6 @@
               "icon": "lucide-search",
               "title": "Поиск"
             }
-          },
-          {
-            "id": "9665898802f1a881",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Закладки"
-            }
           }
         ]
       }
@@ -136,35 +126,6 @@
             }
           },
           {
-            "id": "3a033063cf1d01d1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
-            "id": "0f60faa385887f44",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Все свойства"
-            }
-          },
-          {
             "id": "409196cc4522cd60",
             "type": "leaf",
             "state": {
@@ -190,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,11 +169,11 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "2d1537cf3a1173f1",
+  "active": "3ef8d3257dade1f2",
   "lastOpenFiles": [
+    "Visual Studio Code using.md",
     "_Images",
     "_Images/EvaluateForHovers.png",
-    "Documentation.md",
-    "Visual Studio Code using.md"
+    "Documentation.md"
   ]
 }
