@@ -208,8 +208,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "3ef8d3257dade1f2",
+  "active": "2d1537cf3a1173f1",
   "lastOpenFiles": [
+    "_Images",
+    "_Images/EvaluateForHovers.png",
     "Documentation.md",
     "Visual Studio Code using.md"
   ]
