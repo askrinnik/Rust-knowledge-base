@@ -224,4 +224,5 @@
 - В строке поиска вверху введите: **`debug.evaluate`**    
 - Найдите пункт **Debug: Evaluate On Hover**.    
 - Снимите галочку.
+
 ![](_Images/EvaluateForHovers.png)
