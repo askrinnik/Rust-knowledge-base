@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "7dfcb925b12e00bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String и str.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String и str"
+            }
+          },
+          {
             "id": "3ef8d3257dade1f2",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Консольные команды.md",
+                "file": "String и str.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Консольные команды"
+              "title": "Структура String и str"
             }
           },
           {
@@ -176,20 +190,17 @@
       "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "2d1537cf3a1173f1",
   "lastOpenFiles": [
-    "Crate.md",
+    "Documentation.md",
+    "String и str.md",
     "Консольные команды.md",
+    "Crate.md",
     "Visual Studio Code using.md",
     "_Images/EvaluateForHovers.png",
-    "_Images",
-    "Documentation.md"
+    "_Images"
   ]
 }
